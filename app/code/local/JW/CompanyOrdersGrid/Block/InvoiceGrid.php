@@ -1,5 +1,25 @@
 <?php
+/**
+ * JW_CompanyOrdersGrid extension
+ * 
+ * NOTICE OF LICENSE
+ * 
+ * This source file is subject to the MIT License available at this URL:
+ * http://opensource.org/licenses/mit-license.php
+ * 
+ * @category       JW
+ * @package        JW_CompanyOrdersGrid
+ * @copyright      Copyright (c) 2015
+ * @license        http://opensource.org/licenses/mit-license.php MIT License
+ */
 
+/**
+ * Invoice Grid Block
+ *
+ * @category    JW
+ * @package     JW_CompanyOrdersGrid
+ * @author jWhite <jwhite3854@gmail.com>
+ */
 class JW_CompanyOrdersGrid_Block_InvoiceGrid extends Mage_Adminhtml_Block_Widget_Grid
 {
     public function __construct()
