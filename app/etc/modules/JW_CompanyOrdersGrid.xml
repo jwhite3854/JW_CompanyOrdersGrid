@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <JW_CompanyOrdersGrid>
+            <active>true</active>
+            <codePool>local</codePool>
+        </JW_CompanyOrdersGrid>
+    </modules>
+</config>  
